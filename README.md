@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**JaviMorin/JaviMorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Javier, I'm from Spain and I'm a senior software engineer.
+- I’m currently working for VASS as Analyst Programmer.
+- I’m currently learning JavaScript stack.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET
+- ASP .NET
+- SQL
+- JavaScript
+- TypeScript
+- Angular
+- React
+
