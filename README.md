@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello world! 👋
 
 My name is Javier, I'm from Spain and I'm a senior software engineer.
 - I’m currently working for VASS as Analyst Programmer.
